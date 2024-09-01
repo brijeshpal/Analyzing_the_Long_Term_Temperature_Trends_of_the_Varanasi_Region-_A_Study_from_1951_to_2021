@@ -1,0 +1,2 @@
+# Analyzing_the_Long_Term_Temperature_Trends_of_the_Varanasi_Region-_A_Study_from_1951_to_2021
+Tech Stack: Machine Learning Models (Linear Regression, Random Forest, Decision Tree etc.) ● Used data analysis techniques to identify key patterns and shifts in temperature over a 70-year period. ● Analyzed temperature data and found a 1.2°C increase in average annual temperatures in the Varanasi region.
